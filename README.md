@@ -19,11 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=s-sharma7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/s-sharma7/s-sharma7/output/snake.svg" alt="Snake animation" />
-</div>
