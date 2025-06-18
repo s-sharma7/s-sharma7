@@ -25,5 +25,5 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/s-sharma7/s-sharma7/output/snake.svg" alt="Snake animation" />
 </div>
